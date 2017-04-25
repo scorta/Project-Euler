@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 
 /**
- * Created by John on 24/04/2017.
+ * Created by Scorta on 24/04/2017.
  */
 public class PE46 {
     private static ArrayList<Long> primeList = new ArrayList<>();
