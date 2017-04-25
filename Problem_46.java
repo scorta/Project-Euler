@@ -3,7 +3,7 @@ import java.util.ArrayList;
 /**
  * Created by John on 24/04/2017.
  */
-public class ProjectEuler {
+public class ProjectEuler_46 {
     private static ArrayList<Long> primeList = new ArrayList<>();
 
     public static void main(String[] args) {
