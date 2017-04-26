@@ -90,8 +90,7 @@ class Helpers {
                 return false;
             }
             if (prime > upperLimit) {
-                primeList.add(isPrimeNumber);
-                return true;
+                break;
             }
         }
         primeList.add(isPrimeNumber);
